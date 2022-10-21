@@ -1,5 +1,6 @@
 //Kompilacja z dnia 21.10.2022
 //W pełni sprawna
+//obsługa standardowego LCD
 
 #include <DHT.h>
 #include <DHT_U.h>
